@@ -1,0 +1,1 @@
+add_library(PARCER comm_line_input_lib.c formularParcer.c parcer_functions.c)
